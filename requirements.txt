@@ -1,0 +1,6 @@
+langchain
+openai>=1.0.0
+pydantic==1.10.14
+python-dotenv
+invoke
+google-search-results
